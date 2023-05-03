@@ -53,3 +53,76 @@ Diese Vorgehensweise kann je nach Projekt und Team angepasst werden, um ein effe
 
 ## AUFGABE 3: USER-STORIES
 
+![INVEST-Kriterien](Bilder/invest-kriterien.jpg)
+
+![UserCard_ProductOwner_01](Bilder/UserStory_ProductOwner_01.png)
+- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
+- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
+- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
+- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
+- [x]   Small / Klein: User Stories sollten klein sein
+- [x]   Testable / Testbar: User Stories sollten testbar sein
+
+![UserCard_ProductOwner_02](Bilder/UserStory_ProductOwner_02.png)
+- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
+- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
+- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
+- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
+- [x]   Small / Klein: User Stories sollten klein sein
+- [x]   Testable / Testbar: User Stories sollten testbar sein
+
+![UserCard_ScrumMaster_01](Bilder/UserStory_ScrumMaster_01.png)
+- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
+- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
+- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
+- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
+- [x]   Small / Klein: User Stories sollten klein sein
+- [x]   Testable / Testbar: User Stories sollten testbar sein
+
+![UserCard_ScrumMaster_02](Bilder/UserStory_ScrumMaster_02.png)
+- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
+- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
+- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
+- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
+- [x]   Small / Klein: User Stories sollten klein sein
+- [x]   Testable / Testbar: User Stories sollten testbar sein
+
+![UserCard_Developer_01](Bilder/UserStory_Developer_01.png)
+- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
+- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
+- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
+- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
+- [x]   Small / Klein: User Stories sollten klein sein
+- [x]   Testable / Testbar: User Stories sollten testbar sein
+
+![UserCard_Developer_02](Bilder/UserStory_Developer_02.png)
+- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
+- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
+- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
+- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
+- [x]   Small / Klein: User Stories sollten klein sein
+- [x]   Testable / Testbar: User Stories sollten testbar sein
+
+## AUFGABE 4: ABWICKLUNG MIT GITLAB ODER GITHUB
+
+![GIT_Repo](Bilder/GIT_Repo.jpg)
+
+![Issue_01](Bilder/Issue_01.jpg)
+
+![Issue_02](Bilder/Issue_02.jpg)
+
+## AUFGABE 5: AGILES PM, VERSIONSKONTROLLE UND CI
+
+Die Kombination von leichtgewichtigen Versionskontrollmechanismen wie Trunk-based Development oder GitHub Flow mit Continuous Integration (CI) und automatisiertem Testen kann einen effizienten Entwicklungsprozess unterstützen, wenn sie in Verbindung mit Scrum eingesetzt werden. Hier sind einige Überlegungen dazu:
+
+- Integration von CI in den Sprint: Innerhalb eines Sprints kann die CI-Praxis in den Entwicklungsprozess integriert werden. Entwickler können ihre Änderungen regelmäßig in den Hauptentwicklungszweig (Trunk) oder den Hauptbranch (bei GitHub Flow) zusammenführen. Dabei wird automatisch ein CI-Prozess ausgelöst, der den Code kompiliert, Tests ausführt und Qualitätsmetriken überprüft. Dadurch werden frühzeitig Fehler erkannt und die Teammitglieder können schnell Feedback erhalten.
+
+- Automatisierte Tests: Durch die Kombination von CI mit automatisierten Tests können Teams sicherstellen, dass die Anwendung bei jeder Code-Integration ordnungsgemäß funktioniert. Dies umfasst Unit-Tests, Integrationstests und ggf. UI-Tests. Die automatisierten Tests sollten in den CI-Prozess integriert werden, sodass sie bei jeder Code-Integration automatisch ausgeführt werden. Dies ermöglicht eine schnelle Rückmeldung über die Qualität des Codes und hilft, potenzielle Fehler frühzeitig zu erkennen.
+
+- Code-Reviews und Pull Requests: Bei GitHub Flow können Entwickler Änderungen über Pull Requests einreichen, bevor sie in den Hauptbranch gemerged werden. Dies ermöglicht es dem Team, den Code zu überprüfen und Feedback zu geben. Code-Reviews sollten in den Scrum-Prozess integriert werden, beispielsweise als Teil des Definition of Done (DoD) für User Stories. Durch regelmäßige Code-Reviews kann die Codequalität verbessert und das Wissen im Team geteilt werden.
+
+- Automatisierte Codeanalyse: Die Verwendung von Tools zur automatisierten Codeanalyse wie statischen Code-Analysewerkzeugen oder Linters kann dazu beitragen, Code-Qualitätsstandards durchzusetzen und potenzielle Probleme zu identifizieren. Diese Tools können in den CI-Prozess integriert werden, um den Code kontinuierlich auf Code-Stil, Sicherheitslücken und andere Best Practices zu überprüfen.
+
+Einsatz von Feature-Flags: Feature-Flags ermöglichen es, neue Funktionen zu entwickeln und sie separat vom Hauptcodezweig zu aktivieren oder zu deaktivieren. Dadurch können Änderungen stufenweise ausgerollt und mögliche Auswirkungen auf die Anwendung überwacht werden. Feature-Flags können mit der Versionskontrolle und CI-Systemen integriert werden, um eine granulare Kontrolle über den Bereitstellungsprozess zu ermöglichen.
+
+## AUFGABE 6: AGILES PM, VERSIONSKONTROLLE IN DER PRAXIS
