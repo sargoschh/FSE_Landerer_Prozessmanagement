@@ -56,52 +56,52 @@ Diese Vorgehensweise kann je nach Projekt und Team angepasst werden, um ein effe
 ![INVEST-Kriterien](Bilder/invest-kriterien.jpg)
 
 ![UserCard_ProductOwner_01](Bilder/UserStory_ProductOwner_01.png)
-- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
-- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
-- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
-- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
-- [x]   Small / Klein: User Stories sollten klein sein
-- [x]   Testable / Testbar: User Stories sollten testbar sein
+- [x]   Independent: Die Story ist unabhängig von anderen Storys und kann alleine umgesetzt werden.
+- [x]   Negotiable: Die genauen Anforderungen für das Benachrichtigungssystem können in der Zusammenarbeit zwischen dem Team und dem Product Owner verhandelt werden.
+- [x]   Valuable: Die Funktion ist wertvoll für den Kino-Manager, um Probleme schnell zu erkennen und zu lösen.
+- [x]   Estimable: Die Story ist gut schätzbar und es können klar definierte Kriterien für die Fertigstellung festgelegt werden.
+- [x]   Small: Die Story ist klein genug, um innerhalb eines Sprints umgesetzt werden zu können.
+- [x]   Testable: Die Funktionalität kann durch automatisierte Tests getestet werden.
 
 ![UserCard_ProductOwner_02](Bilder/UserStory_ProductOwner_02.png)
-- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
-- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
-- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
-- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
-- [x]   Small / Klein: User Stories sollten klein sein
-- [x]   Testable / Testbar: User Stories sollten testbar sein
+- [x]   Independent: Die Story ist unabhängig von anderen Storys und kann alleine umgesetzt werden.
+- [x]   Negotiable: Die genauen Anforderungen für die Benutzerfreundlichkeit können in der Zusammenarbeit zwischen dem Team und dem Product Owner verhandelt werden.
+- [x]   Valuable: Die Funktion ist wertvoll für den Kino-Manager, um effizienter arbeiten zu können.
+- [ ]   Estimable: Die Story ist schwierig zu schätzen, da die Anforderungen für Benutzerfreundlichkeit subjektiv sind.
+- [ ]   Small: Die Story könnte zu groß sein, um innerhalb eines Sprints umgesetzt zu werden.
+- [x]   Testable: Die Funktionalität kann durch Benutzertests getestet werden.
 
 ![UserCard_ScrumMaster_01](Bilder/UserStory_ScrumMaster_01.png)
-- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
-- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
-- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
-- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
-- [x]   Small / Klein: User Stories sollten klein sein
-- [x]   Testable / Testbar: User Stories sollten testbar sein
+- [x]   Independent: Die Story ist unabhängig von anderen Storys und kann alleine umgesetzt werden.
+- [x]   Negotiable: Die genauen Anforderungen für die Sitzplatzreservierungsfunktion können in der Zusammenarbeit zwischen dem Team und dem Product Owner verhandelt werden.
+- [x]   Valuable: Die Funktion ist wertvoll für den Kino-Manager, um Sitzpläne effizient zu verwalten.
+- [x]   Estimable: Die Story ist gut schätzbar und es können klar definierte Kriterien für die Fertigstellung festgelegt werden.
+- [ ]   Small: Die Story könnte zu groß sein, um innerhalb eines Sprints umgesetzt zu werden.
+- [x]   Testable: Die Funktionalität kann durch automatisierte Tests getestet werden.
 
 ![UserCard_ScrumMaster_02](Bilder/UserStory_ScrumMaster_02.png)
-- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
-- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
-- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
-- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
-- [x]   Small / Klein: User Stories sollten klein sein
-- [x]   Testable / Testbar: User Stories sollten testbar sein
+- [x]   Independent: Die Story ist unabhängig von anderen Storys und kann alleine umgesetzt werden.
+- [x]   Negotiable: Die genauen Anforderungen für die benutzerfreundliche Oberfläche können in der Zusammenarbeit zwischen dem Team und dem Product Owner verhandelt werden.
+- [x]   Valuable: Die Funktion ist wertvoll für den Kino-Manager, um schnell und einfach auf wichtige Kinoinformationen zugreifen zu können.
+- [x]   Estimable: Die Story ist gut schätzbar und es können klar definierte Kriterien für die Fertigstellung festgelegt werden.
+- [ ]   Small: Die Story könnte groß sein, je nach Umfang der relevanten Kinoinformationen. Es könnte hilfreich sein, sie in kleinere, besser schätzbare Teile zu zerlegen.
+- [x]   Testable: Die Funktionalität kann durch Benutzertests getestet werden.
 
 ![UserCard_Developer_01](Bilder/UserStory_Developer_01.png)
-- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
-- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
-- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
-- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
-- [x]   Small / Klein: User Stories sollten klein sein
-- [x]   Testable / Testbar: User Stories sollten testbar sein
+- [x]   Independent: Die Story ist unabhängig von anderen Storys und kann alleine umgesetzt werden.
+- [x]   Negotiable: Die genauen Anforderungen für die Funktionen zum Hinzufügen, Bearbeiten und Löschen von Filmen und Spielzeiten können in der Zusammenarbeit zwischen dem Team und dem Product Owner verhandelt werden.
+- [x]   Valuable: Die Funktion ist wertvoll für den Kino-Manager, um die Film- und Spielzeitplanung flexibel zu verwalten.
+- [x]   Estimable: Die Story ist gut schätzbar und es können klar definierte Kriterien für die Fertigstellung festgelegt werden.
+- [x]   Small: Die Story ist in der Regel klein genug, um innerhalb eines Sprints umgesetzt zu werden.
+- [x]   Testable: Die Funktionalität kann durch automatisierte Tests getestet werden.
 
 ![UserCard_Developer_02](Bilder/UserStory_Developer_02.png)
-- [x]   Independent / Unabhängig: User Stories sollten unabhängig voneinander sein
-- [x]   Negotiable / Verhandelbar: User Stories sollten verhandelbar sein
-- [x]   Valuable / Wertvoll: User Stories sollten einen Wert für den Kunden besitzen
-- [x]   Estimatable / Schätzbar: User Stories sollten schätzbar sein
-- [x]   Small / Klein: User Stories sollten klein sein
-- [x]   Testable / Testbar: User Stories sollten testbar sein
+- [x]   Independent: Die Story ist unabhängig von anderen Storys und kann alleine umgesetzt werden.
+- [x]   Negotiable: Die genauen Anforderungen für die Feedback-Funktion können in der Zusammenarbeit zwischen dem Team und dem Product Owner verhandelt werden.
+- [x]   Valuable: Die Funktion ist wertvoll, um das Feedback der Kinobesucher zu erhalten und die App kontinuierlich zu verbessern.
+- [x]   Estimable: Die Story ist gut schätzbar und es können klar definierte Kriterien für die Fertigstellung festgelegt werden.
+- [x]   Small: Die Story ist in der Regel klein genug, um innerhalb eines Sprints umgesetzt zu werden.
+- [x]   Testable: Die Funktionalität kann durch automatisierte Tests getestet werden.
 
 ## AUFGABE 4: ABWICKLUNG MIT GITLAB ODER GITHUB
 
@@ -123,6 +123,145 @@ Die Kombination von leichtgewichtigen Versionskontrollmechanismen wie Trunk-base
 
 - Automatisierte Codeanalyse: Die Verwendung von Tools zur automatisierten Codeanalyse wie statischen Code-Analysewerkzeugen oder Linters kann dazu beitragen, Code-Qualitätsstandards durchzusetzen und potenzielle Probleme zu identifizieren. Diese Tools können in den CI-Prozess integriert werden, um den Code kontinuierlich auf Code-Stil, Sicherheitslücken und andere Best Practices zu überprüfen.
 
-Einsatz von Feature-Flags: Feature-Flags ermöglichen es, neue Funktionen zu entwickeln und sie separat vom Hauptcodezweig zu aktivieren oder zu deaktivieren. Dadurch können Änderungen stufenweise ausgerollt und mögliche Auswirkungen auf die Anwendung überwacht werden. Feature-Flags können mit der Versionskontrolle und CI-Systemen integriert werden, um eine granulare Kontrolle über den Bereitstellungsprozess zu ermöglichen.
+- Einsatz von Feature-Flags: Feature-Flags ermöglichen es, neue Funktionen zu entwickeln und sie separat vom Hauptcodezweig zu aktivieren oder zu deaktivieren. Dadurch können Änderungen stufenweise ausgerollt und mögliche Auswirkungen auf die Anwendung überwacht werden. Feature-Flags können mit der Versionskontrolle und CI-Systemen integriert werden, um eine granulare Kontrolle über den Bereitstellungsprozess zu ermöglichen.
 
 ## AUFGABE 6: AGILES PM, VERSIONSKONTROLLE IN DER PRAXIS
+
+Nun wird ein Workflow durchgespielt. Der ScrumMaster und der ProductOwner nehmen dazu die Rolle des Entwicklers ein.
+
+Die Issues wurden erstellt und in den Sprint Backlog eingefügt:
+![Git_Issues_01](Bilder/Git_Issues_01.jpg)
+
+Ein neuer Workflow wird erstellt - dazu wird die Vorlage "Java with Maven" verwendet:
+![Git_Workflow_01](Bilder/Git_Workflow_01.jpg)
+
+Die Datei "maven_sarah.yml" wird überarbeitet:
+![Git_Workflow_02](Bilder/Git_Workflow_02.jpg)
+
+````yaml
+# This workflow will build a Java project with Maven, and cache/restore any dependencies to improve the workflow execution time
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven
+
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+name: Java CI with Maven
+
+on:
+  push:
+    branches: [ "dev_sarah" ]
+  pull_request:
+    branches: [ "dev" ]
+        # beim Push auf "dev_sarah" oder bei einem Pull Request auf "dev" wird der Workflow ausgeführt.
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up JDK 17
+      uses: actions/setup-java@v3
+      with:
+        java-version: '17'
+        distribution: 'temurin'
+        cache: maven
+    - name: Build with Maven
+      run: mvn -B package --file tdd-kino/pom.xml
+    - name: Run Tests
+      run: |
+        cd tdd-kino
+        mvn test
+    # hier wird spezifiziert, dass die Tests im Programm ausgeführt werden
+    
+````
+
+Beim Erstellen des Workflows wird gleichzeitig ein neuer Branch erstellt:
+
+![Git_Workflow_03](Bilder/Git_Workflow_03.jpg)
+
+Die neuen Änderungen werden mit einem PullRequest auf den Dev-Branch gemerged:
+
+![Git_Workflow_04](Bilder/Git_Workflow_04.jpg)
+
+Alle Überprüfungen haben funktioniert:
+
+![Git_Workflow_05](Bilder/Git_Workflow_05.jpg)
+
+Der Merge wurde durchgeführt:
+
+![Git_Workflow_06](Bilder/Git_Workflow_06.jpg)
+
+Hier sind nun alle erstellten Branches ersichtlich:
+
+![Git_Workflow_07](Bilder/Git_Workflow_07.jpg)
+
+Die Bearbeitung des Projekts beginnt - somit wurden die Issues nach "In Progress" verschoben:
+
+![Git_Issues_02](Bilder/Git_Issues_02.jpg)
+
+Lokal wird das Repository gepullt und der Branch gewechselt:
+
+![Git_Workflow_08](Bilder/Git_Workflow_08.jpg)
+
+In IntelliJ sind die bisherigen Commits ersichtlich - der aktuelle Branch ist "dev_sarah":
+
+![Git_Workflow_09](Bilder/Git_Workflow_09.jpg)
+
+Im Code wurde ein Kommentar hinzugefügt:
+
+![Git_Workflow_10](Bilder/Git_Workflow_10.jpg)
+
+Die Änderungen werden commited und gepusht:
+
+![Git_Workflow_11](Bilder/Git_Workflow_11.jpg)
+
+Im Remote-Repository sieht man, dass die Test automatisch abgelaufen sind:
+
+![Git_Workflow_12](Bilder/Git_Workflow_12.jpg)
+
+Die "Aufgabe" des Issues wurde erfüllt und kann nun kontrolliert & gemerged werden:
+
+![Git_Issues_03](Bilder/Git_Issues_03.jpg)
+
+Ein neuer PullRequest wird erstellt - von "dev_sarah" auf "dev":
+
+![Git_Workflow_13](Bilder/Git_Workflow_13.jpg)
+
+Die Änderungen im Code sind ersichtlich und erzeugen keinen Konflikt:
+
+![Git_Workflow_14](Bilder/Git_Workflow_14.jpg)
+
+Der PullRequest kann abgesetzt werden:
+
+![Git_Workflow_15](Bilder/Git_Workflow_15.jpg)
+
+Nachdem alle Tests und Checks erfolgreich waren, kann der PullRequest gemerged werden:
+
+![Git_Workflow_16](Bilder/Git_Workflow_16.jpg)
+
+Anschließend kann der Branch "dev_sarah" gelöscht werden:
+
+![Git_Workflow_17](Bilder/Git_Workflow_17.jpg)
+
+Nachdem alle Work-Branches in den "dev"-Branch gemerged wurden, wird nun auch der "dev"-Branch in den "main"-Branch gemerged:
+
+![Git_Workflow_18](Bilder/Git_Workflow_18.jpg)
+
+Das Mergen erzeugt keine Konflikte:
+
+![Git_Workflow_19](Bilder/Git_Workflow_19.jpg)
+
+Der PullRequest wurde erfolgreich gemerged und der "dev"-Branch kann gelöscht werden:
+
+![Git_Workflow_20](Bilder/Git_Workflow_20.jpg)
+
+Nun ist nur mehr der "main"-Branch verfügbar:
+
+![Git_Workflow_21](Bilder/Git_Workflow_21.jpg)
+
+Die Issues können als "abgeschlossen" markiert werden:
+
+![Git_Issues_04](Bilder/Git_Issues_04.jpg)
